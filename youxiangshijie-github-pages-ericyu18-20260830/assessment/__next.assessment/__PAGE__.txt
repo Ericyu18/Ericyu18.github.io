@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[72725,["/_next/static/chunks/0eog50~01kpo8.js","/_next/static/chunks/10ybro7szkepb.js"],"AssessmentClient"]
-3:I[6391,["/_next/static/chunks/0eog50~01kpo8.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":[["$","header",null,{"className":"site-header site-header-compact","children":[["$","a",null,{"className":"brand","href":"/","aria-label":"游向世界首页","children":[["$","span",null,{"className":"brand-mark","aria-hidden":"true","children":"游"}],["$","span",null,{"children":"游向世界"}]]}],["$","nav",null,{"aria-label":"主导航","children":[["$","a",null,{"href":"/method","children":"研究方法"}],["$","a",null,{"className":"nav-button","href":"/assessment","children":"开始探索"}]]}]]}],["$","div",null,{"className":"shell assessment-top","children":["$","div",null,{"className":"demo-notice demo-notice-compact","role":"note","children":[["$","span",null,{"aria-hidden":"true","children":"●"}],["$","div",null,{"children":[["$","strong",null,{"children":"演示数据，待调研校准"}],false]}]]}]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/10ybro7szkepb.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"DUrDeIUj0_5EmmbcUuGEY"}
-5:null
