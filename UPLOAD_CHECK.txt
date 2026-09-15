@@ -1,0 +1,16 @@
+游向世界 GitHub Pages V2 完整更新包
+生成日期：2026-09-15
+目标仓库：Ericyu18/Ericyu18.github.io
+目标网址：https://ericyu18.github.io/
+
+上传方法：
+1. 解压本压缩包。
+2. 在 GitHub 仓库根目录删除或覆盖旧版网站文件。
+3. 把解压后看到的全部文件和文件夹直接上传到仓库根目录。
+4. 仓库根目录必须直接看到 index.html、.nojekyll、_next、assessment、results、method、evidence。
+5. 不要把本说明所在的外层文件夹整体再套一层上传。
+6. 上传完成后等待 GitHub Pages 部署，再按 Ctrl+F5 强制刷新。
+
+重要：必须保留 .nojekyll，否则 _next 样式资源可能被 GitHub Pages 忽略，页面会只剩无样式文字。
+
+V2 识别点：首页显示 66 条 JD 审计记录、22 条官方来源、18 条正式计权；测评共 17 题。
