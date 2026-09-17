@@ -1,0 +1,35 @@
+{
+  "website_version": "2.2.0",
+  "validated_on": "2026-09-17",
+  "automated_tests": {
+    "total": 16,
+    "passed": 16,
+    "failed": 0,
+    "status": "passed"
+  },
+  "targeted_regression_tests": {
+    "total": 8,
+    "passed": 8,
+    "failed": 0
+  },
+  "full_persona_replay": {
+    "completed": false,
+    "reason": "SYN-STU-04—08完整原始答题记录未进入补丁"
+  },
+  "human_student_testing": {
+    "completed": 0,
+    "target": "15—30",
+    "planned_stage": "复赛"
+  },
+  "practitioner_review": {
+    "completed": 0,
+    "target": "2—3",
+    "planned_stage": "复赛"
+  },
+  "release_status": "preliminary_round_frozen",
+  "allowed_changes_after_freeze": [
+    "错别字",
+    "坏链接",
+    "阻断性页面错误"
+  ]
+}

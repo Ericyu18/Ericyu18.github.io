@@ -1,0 +1,18 @@
+{
+  "version": "2.2.0",
+  "generated_on": "2026-09-17",
+  "status": "research_model_v2_2_synthetic_pretest_pending_human_calibration",
+  "tests": [
+    { "id": "REG-22-01", "priority": "P0", "persona_id": "SYN-STU-05", "assertion": "首次提交一次成功；连续点击不重复计算；失败显示错误码和重试", "expected": "one_successful_result" },
+    { "id": "REG-22-02", "priority": "P0", "persona_id": "SYN-STU-06", "assertion": "community基础分保留约41.4并进入近似并列组；因community_operations直接证据优先展示", "expected": "community_visible_in_near_tie_cluster" },
+    { "id": "REG-22-03", "priority": "P1", "persona_id": "SYN-STU-04", "assertion": "折叠态显示数据3.0、AI0.0和汇总1.5", "expected": "component_scores_visible" },
+    { "id": "REG-22-04", "priority": "P1", "persona_id": "SYN-STU-08", "assertion": "每个岗位显示80%能力/20%偏好贡献和并列组排序原因", "expected": "ranking_reproducible" },
+    { "id": "REG-22-05", "priority": "P1", "persona_id": "SYN-STU-05", "assertion": "零基础用户获得30/90/180天依赖闭合路线且周工时不超限", "expected": "complete_foundation_route" },
+    { "id": "REG-22-06", "priority": "P1", "persona_id": "SYN-STU-06", "assertion": "30天串行任务周数不超过阶段；超出则延期或提示", "expected": "no_hidden_schedule_conflict" },
+    { "id": "REG-22-07", "priority": "P1", "persona_id": "ALL", "assertion": "CON-04和BRD-06仅标数据分析，不声称训练AI协作", "expected": "task_semantics_match" },
+    { "id": "REG-22-08", "priority": "P1", "persona_id": "ALL", "assertion": "每个岗位卡显示sample_size与未校准状态，全部5类可展开", "expected": "calibration_visible" }
+  ],
+  "human_validation_note": "全部通过仍只代表合成回归通过，不计入真人测试。",
+  "source_ids": ["SYN-STU-04", "SYN-STU-05", "SYN-STU-06", "SYN-STU-07", "SYN-STU-08"],
+  "placeholder": true
+}
